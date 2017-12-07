@@ -1,0 +1,1 @@
+hr-portal adopts the spring bean validation
